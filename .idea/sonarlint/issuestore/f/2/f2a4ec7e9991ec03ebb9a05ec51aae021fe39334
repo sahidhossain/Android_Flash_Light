@@ -1,0 +1,37 @@
+
+r
+java:S1450V"PRemove the "y" field and declare it as a local variable in the relevant methods.(‰ä™ ùÿÿÿÿ8•þÊç£.
+R
+java:S1444"0Make this "public static isSwitchOn" field final(ò‘åôøÿÿÿÿ8¿¬»ë£.
+R
+java:S2209"5Change this instance-reference to a static reference.(õ˜¹ª8ÂÐÖâ£.
+]	java:S125o"<This block of commented-out lines of code should be removed.(ñÃÐ•ýÿÿÿÿ8•þÊç£.
+o
+java:S1450Q"RRemove the "now" field and declare it as a local variable in the relevant methods.(¢ÂÝš8•þÊç£.
+W	java:S125v"<This block of commented-out lines of code should be removed.(óÉË&8µÕÈë£.
+w
+java:S1450"URemove the "sensor" field and declare it as a local variable in the relevant methods.(äÑžåúÿÿÿÿ8ëêâ£.
+B
+java:S3010"%Remove this assignment of "aContext".(õ˜¹ª8ÂÐÖâ£.
+k	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°£éØøÿÿÿÿ
+X	java:S125r"<This block of commented-out lines of code should be removed.(Ë•¦8æ½Èë£.
+v
+java:S1450["TRemove the "force" field and declare it as a local variable in the relevant methods.(ÿŠþþÿÿÿÿ8•þÊç£.
+s
+java:S1450"VRemove the "running" field and declare it as a local variable in the relevant methods.(ðž—«8ëêâ£.
+q
+java:S1104"VMake isSwitchOn a static final constant or non-public and provide accessors if needed.(ò‘åôøÿÿÿÿ
+?
+java:S1118"Hide this public constructor.(† Ý†ûÿÿÿÿ8¿¬»ë£.
+m
+java:S1450U"PRemove the "x" field and declare it as a local variable in the relevant methods.(½òª¶8•þÊç£.
+t
+java:S1450R"WRemove the "timeDiff" field and declare it as a local variable in the relevant methods.(æÀ¡©8•þÊç£.
+m
+java:S1450W"PRemove the "z" field and declare it as a local variable in the relevant methods.(Ñ¶âÂ8•þÊç£.
+ž
+java:S1186]"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÐŠß±8•þÊç£.
+H
+java:S1068"+Remove this unused "running" private field.(ðž—«8¨ÒÍâ£.
+]	java:S125<"<This block of commented-out lines of code should be removed.(‚Í¸§úÿÿÿÿ8Š™Çë£.
+W	java:S125"<This block of commented-out lines of code should be removed.(óÉË&8ûñÈë£.

@@ -1,0 +1,10 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(üîÑœ
+—
+java:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÐŠß±
+<
+java:S1170"!Make this final field static too.(ð þüÿÿÿÿ
+{	java:S116"aRename this field "MIN_TIME_BETWEEN_SHAKE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð þüÿÿÿÿ
+m
+java:S37760"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¡Ž¯âþÿÿÿÿ
